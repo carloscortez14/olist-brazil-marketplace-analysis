@@ -50,7 +50,7 @@ Every additional bucket of delay corresponds to a lower average review score, fr
 
 ## Dashboard
 
-[![Dashboard preview](./data/dashboard.png)](https://public.tableau.com/app/profile/carlos.cortez7133/viz/OlistBrazilE-CommerceAnalysis_17906241327840/Dashboard1?publish=yes)
+[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/carlos.cortez7133/viz/OlistBrazilE-CommerceAnalysis_17906241327840/Dashboard1?publish=yes)
 
 ## Repo Contents
 
